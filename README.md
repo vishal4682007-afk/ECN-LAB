@@ -29,6 +29,7 @@
 
 
 
+![1 dig](https://github.com/user-attachments/assets/4a3b8c5f-d421-4ff7-8dd4-d9272b29bfff)
 
 
 
@@ -52,4 +53,8 @@
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+
+**MARKSSPLITUP:**
+
+![1 mark](https://github.com/user-attachments/assets/a8e915b4-914c-4aa9-98f6-2d2a6f1f6716)
 
