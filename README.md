@@ -24,16 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
-
-
-
-
-
-
-
-
-
-
+![1 dig](https://github.com/user-attachments/assets/dd02b91b-22e6-4280-9426-669a68a2712e)
 
 **PROCEDURE:**
 
@@ -53,3 +44,6 @@
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
+**MARKSPLIT:**
+
+![1 mark](https://github.com/user-attachments/assets/cfad4f87-9fd4-41cc-8d7d-8d027f002dc8)
